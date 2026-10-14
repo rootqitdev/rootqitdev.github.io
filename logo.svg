@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="logoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  <!-- Rounded Background -->
+  <rect width="120" height="120" rx="28" fill="url(#logoBg)"/>
+  
+  <!-- Horse Head Silhouette -->
+  <path d="M48 24C44 26 38 31 36 36C34 40 35 45 37 49C36 51 34 54 32 58C30 63 29 68 31 73C33 77 37 80 42 81C43 83 45 87 48 89C51 91 55 91 57 88C59 86 60 83 60 80C64 81 68 81 72 79C77 76 80 71 82 66C84 59 83 52 80 46C77 40 71 34 65 29C60 25 54 23 48 24ZM52 38C54 38 56 40 56 42C56 44 54 46 52 46C50 46 48 44 48 42C48 40 50 38 52 38ZM43 62C42 60 43 57 45 56C47 55 50 56 51 58C52 61 50 63 48 64C46 64 44 63 43 62Z" fill="#ffffff" fill-opacity="0.95"/>
+
+  <!-- Horseshoe Accent -->
+  <path d="M42 96C42 98 44 100 46 100C52 100 55 98 60 98C65 98 68 100 74 100C76 100 78 98 78 96C78 94 76 93 74 93C68 93 65 95 60 95C55 95 52 93 46 93C44 93 42 94 42 96Z" fill="#ffffff" fill-opacity="0.7"/>
+</svg>
